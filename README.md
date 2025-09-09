@@ -1,6 +1,4 @@
-# DietOptimizer
-
-## Описание проекта
+## DietOptimizer
 **DietOptimizer** — десктопное приложение на **C# .NET 8**, решающее задачу оптимизации калорий и составления плана диеты в соответствии с профилем пользователя.  
 
 В качестве математической базы используются методы линейного программирования:
@@ -26,16 +24,6 @@
 │   │   ├── Product.cs
 │   │   ├── SolutionResult.cs
 │   │   └── UserProfile.cs
-│   ├── Properties
-│   │   ├── Resources.Designer.cs
-│   │   └── Resources.resx
-│   ├── Resources
-│   │   ├── additionalReception.jpg
-│   │   ├── breakfast.jpg
-│   │   ├── dinner.jpg
-│   │   ├── lunch.jpg
-│   │   ├── Maximization.jpeg
-│   │   └── Minimization.jpeg
 │   ├── Solvers
 │   │   ├── IntegerSimplexSolver.cs
 │   │   ├── IntegerSimplexSolverGomori.cs
@@ -47,8 +35,7 @@
 │   │   ├── ResultForm.cs
 │   ├── DietOptimizer.csproj
 │   └── Program.cs
-├── DietOptimizer.sln
-└── README.md
+└──  DietOptimizer.sln
 ```
 
 ## Основной функционал

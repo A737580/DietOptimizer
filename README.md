@@ -47,10 +47,16 @@
 - Формирование итогового отчета о рационе.
 
 ## Скриншоты интерфейса
+- Вкладка «Главная»
+![alt text](./public/images/imageOpt_cw1.png)
 - Вкладка «Результат»
+![alt text](./public/images/imageOpt_cw2.png)
 - Вкладка «Оптимальность»
+![alt text](./public/images/imageOpt_cw3.png)
 - Вкладка «Анализ устойчивости»
+![alt text](./public/images/imageOpt_cw4.png)
 - Вкладка «Рацион»
+![alt text](./public/images/imageOpt_cw5.png)
 
 ## Математическая база
 - Симплекс-метод — решение задачи линейного программирования.
